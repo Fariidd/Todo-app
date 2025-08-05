@@ -7,5 +7,8 @@ Projet vitrine pour m'exercer et présenter mon travail.
 - Frontend : Vue 3 + Tailwind CSS
 - Backend : Symfony (API Platform)
 
+<p align="center">
+  <img src="./front-dark.png" alt="Aperçu 1" width="45%"/>
+  <img src="././front-light.png" alt="Aperçu 2" width="45%" style="margin-left: 10px;"/>
+</p>
 
-![Aperçu de l'application](./front-dark.png) // ![Aperçu de l'application](./front-light.png)
