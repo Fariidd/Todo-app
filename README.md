@@ -8,4 +8,4 @@ Projet vitrine pour m'exercer et présenter mon travail.
 - Backend : Symfony (API Platform)
 
 
-![Aperçu de l'application](./front-dark.png)
+![Aperçu de l'application](./front-dark.png) // ![Aperçu de l'application](./front-light.png)
